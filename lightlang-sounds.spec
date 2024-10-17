@@ -4,7 +4,7 @@ Version:	0.0.1
 Release:	3
 License:	GPLv2+
 Group:		Office
-Url:		http://lightlang.org.ru
+Url:		https://lightlang.org.ru
 Source0:	%{name}-%{version}.tar.bz2
 Requires:	lightlang
 BuildArch:	noarch
